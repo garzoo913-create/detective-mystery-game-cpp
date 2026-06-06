@@ -6,6 +6,15 @@ A text-based detective mystery game developed using C++ and Object-Oriented Prog
 
 This project allows players to step into the role of a detective and solve a mystery by collecting clues, analyzing evidence, and making decisions throughout the investigation.
 
+## Key Highlights
+
+- Developed a complete text-based detective mystery game in C++
+- Applied Object-Oriented Programming concepts
+- Implemented multiple suspects, clues, and investigation paths
+- Designed an interactive console-based user experience
+- Created project documentation and GitHub repository
+
+  
 ## Features
 
 * Interactive text-based gameplay
