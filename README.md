@@ -26,7 +26,23 @@ This project allows players to step into the role of a detective and solve a mys
 
 ## Screenshots
 
-Screenshots are available in the `screenshots` folder.
+ ### START
+ 
+ <img width="402" height="494" alt="Start-Of-Game" src="https://github.com/user-attachments/assets/2ba11d83-bf49-4104-862e-c97ae8b1d84a" />
+
+ ###INTERROGATION
+
+ <img width="245" height="314" alt="Interrogation" src="https://github.com/user-attachments/assets/fb86fb3e-f07c-49ff-a8eb-77c3ab687c50" />
+
+###DEEP SEARCH
+
+<img width="418" height="291" alt="Deep-Search" src="https://github.com/user-attachments/assets/6f04d304-a250-4ba2-8bcd-35840ae3e35f" />
+
+###FINAL ACCUSATION
+
+<img width="317" height="266" alt="Final-Accusation" src="https://github.com/user-attachments/assets/416e4478-f9ef-4a13-b6e4-a973aae98fbb" />
+
+
 
 ## Project Report
 
