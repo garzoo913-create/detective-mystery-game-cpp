@@ -14,6 +14,15 @@ This project allows players to step into the role of a detective and solve a mys
 - Designed an interactive console-based user experience
 - Created project documentation and GitHub repository
 
+
+## Skills Demonstrated
+
+- C++
+- Object-Oriented Programming (OOP)
+- Problem Solving
+- Game Logic Design
+- Console Application Development
+- GitHub
   
 ## Features
 
